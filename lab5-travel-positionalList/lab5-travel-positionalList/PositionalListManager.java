@@ -35,7 +35,7 @@ public class PositionalListManager {
 			// Insert Monaco AFTER the second stop
 			itinerary.addAfter(second, "Monaco");
 
-			// Insert "London" BEFORE the first stop
+			// Insert London BEFORE the first stop
 			itinerary.addBefore(first, "London");
 		}
 
